@@ -1,6 +1,6 @@
-# Coroutines By Example
+# Lua Coroutines By Example
 
-The full source code mentioned my article: [Coroutines By Example](https://jasonliang.js.org/coroutines.html).
+The full source code mentioned my article: [Lua Coroutines By Example](https://jasonliang.js.org/coroutines.html).
 
 Download [LÖVE](https://love2d.org/#download), then run:
 
